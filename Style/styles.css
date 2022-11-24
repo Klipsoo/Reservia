@@ -25,7 +25,6 @@ a:visited {/* s'hérite du parent, par défaut noir */
 
 button, input, ul {
 border:none;
-background-color: none;
 list-style-type: none;
 }
 
